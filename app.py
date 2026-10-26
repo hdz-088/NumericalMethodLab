@@ -244,14 +244,13 @@ if nav_selection == "🏠 Home / Overview":
         st.markdown("### 🎓 Syllabus Alignment")
         st.markdown(
             """
-            - **Course**: College Mathematics / Computational Engineering
             - **Unit**: **Unit 02 — Numerical Methods**
             - **Topic**: Solution of Algebraic & Transcendental Equations
             - **Implemented Methods**:
-              1. **Bisection Method** (Bolzano's Interval Halving)
-              2. **Regula-Falsi Method** (False Position Chord Method)
-              3. **Newton-Raphson Method** (Tangent / Derivative Method)
-              4. **Secant Method** (Finite-Difference Quasi-Newton Method)
+              1. **Bisection Method**
+              2. **Regula-Falsi Method**
+              3. **Newton-Raphson Method**
+              4. **Secant Method**
             """
         )
 
